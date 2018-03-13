@@ -25,3 +25,21 @@
  .img-responsive{
    width: 100%;
  }
+
+ /* About us,How to Use, Your Contribution */
+
+ /*.titleAndTextContainer{
+   /* display: flex; */
+/*   background-color: silver;
+   padding: 10px;
+   margin: 10px;
+ }
+
+ .heading{
+   text-align: center;
+   font-family: sans-serif;
+   padding: 10px;
+ }*/
+ .under-car{
+   padding-top: 30px;
+ }
