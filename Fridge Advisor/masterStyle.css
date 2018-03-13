@@ -2,6 +2,7 @@
    .navbar {
      margin-bottom: 0;
      border-radius: 0;
+     padding-top: 700;
    }
 
    /* Add a gray background color and some padding to the footer */
@@ -28,7 +29,7 @@
 
  /* About us,How to Use, Your Contribution */
 
- /*.titleAndTextContainer{
+ /*.titleAndTextContainer{*/
    /* display: flex; */
 /*   background-color: silver;
    padding: 10px;
