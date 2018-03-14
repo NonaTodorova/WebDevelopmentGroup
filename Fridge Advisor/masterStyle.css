@@ -23,6 +23,13 @@
      display: none;
    }
  }
+
+ @media (max-width:500px) {
+    .carousel {
+        display:none !important;
+    }
+}
+
  .img-responsive{
    width: 100%;
  }
